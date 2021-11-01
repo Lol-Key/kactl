@@ -1,0 +1,23 @@
+What to do:
+	- Recall similar problems
+	- Try to make the problem less specific
+	- Make a bold claim and try to work around it
+	- Try small inputs
+	- Think with teammates
+	- Pick a general method (listed below) or a data structure, and try to apply it
+	- Print the answers for small cases and find a pattern
+	- Make the problem formal and play around with pure math equations
+	- Change the dimensions of the DP
+	- Approach the problem from random angles
+
+General techniques:
+	- Binary search
+	- Divide and conquer
+	- Greedy
+	- Dynamic programming
+	- SQRT algorithms
+	- Flows
+	- Sprague Grundy
+	- Inclusion-exclusion principle
+	- Geometric interpretation
+	- Count NON-VALID solutions

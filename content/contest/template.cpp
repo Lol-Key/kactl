@@ -1,23 +1,41 @@
 #include <bits/stdc++.h>
+
 using namespace std;
 
-#define rep(i, a, b) for(int i = a; i < (b); ++i)
-#define all(x) begin(x), end(x)
-#define sz(x) (int)(x).size()
-#define trav(u, x) for (auto &u : x)
+#define mp make_pair
+#define eb emplace_back
+#define pb push_back
+#define e1 first
+#define e2 second
+#define vt vector
+#define maxi(x,y) x=max(x,y)
+#define mini(x,y) x=min(x,y)
+#define size(x) (int)x.size()
+#define all(r) begin(r),end(r)
+#define fastio ios_base::sync_with_stdio(0);cin.tie(0);cout.tie(0)
+
 typedef long long ll;
-typedef pair<int, int> pii;
-typedef vector<int> vi;
-template<class A,class B>auto&operator<<(ostream&o,pair<A,B>p){return o<<'('<<p.first<<", "<<p.second<<')';}
-template<class T>auto operator<<(ostream&o,T x)->decltype(x.end(),o){o<<'{';int i=0;for(auto e:x)o<<(", ")+2*!i++<<e;return o<<'}';}
-#ifdef DEBUG
-#define debug(x...) cerr<<"["#x"]: ",[](auto...$){((cerr<<$<<"; "),...);}(x),cerr<<'\n'
-#else
-#define debug(...) {}
-#endif
+typedef long double ld;
+typedef vt<int> vi;
+typedef vt<vi> vvi;
+typedef vt<ll> vll;
+typedef vt<vll> vvll;
 
+const bool TESTS=true;
 
-int main() {
-	cin.tie(0)->sync_with_stdio(0);
-	cin.exceptions(cin.failbit);
+void solve(int ID){
+	
+}
+
+int32_t main(){
+	fastio;
+	if(TESTS){
+		int t;
+		cin>>t;
+		for(int i=0;i<t;i++)
+			solve(i);
+	}
+	else
+		solve(0);
+	return 0;
 }

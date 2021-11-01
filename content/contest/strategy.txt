@@ -1,0 +1,14 @@
+contest beginning: 
+	- Fast Typist (FT) writes the basic template and compile flags / scripts
+	- Meanwhile, the other two contestants skin through the problem set in search of the easiest problem
+	- Typist implements the easiest problem
+general advice:
+	- Discuss solutions with teammates
+	- Write code on paper to save computer time
+	- Take a break / change problems if you're stuck
+	- When done with a problem, discard pieces of paper related to it
+	- Monitor the scoreboard in search of easy problems
+	- Print often (if possible)
+contest endgame:
+	- If not a lot of time is left, discuss one single problem as a team
+	- In the last 30 - 40 minutes, submit anything that has any chance of working
